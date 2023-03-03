@@ -1,2 +1,3 @@
 # calculator
-A calculator for my class!
+
+A simple calculator made in React
